@@ -248,8 +248,6 @@ Contributions are welcome! Please fork this repository, create a new branch, and
 
 ---
 
-Feel free to use this project for your purposes or enhance it further. Happy coding!
-
 
 
 
@@ -330,6 +328,4 @@ The **Feedback System** is an interactive platform that enables users to submit 
 We welcome contributions! Feel free to fork this repository, create a new branch, and submit a pull request with your updates or enhancements.
 
 ---
-
-Feel free to use or enhance this project as needed. Your feedback matters!
 
